@@ -28,6 +28,15 @@ For personal photography collections, independent publications, exhibition studi
 
 In the lower half, extract only the photograph's most recognizable subject, silhouette, structure, pose, and narrative relationships, and reconstruct them as low-resolution pixel-art illustration / retro 16-bit game art. Do not reproduce the entire photograph or redraw every object. Remove most irrelevant background and detail, retaining only the structures, directional flow, and visual memory cues that best represent the original. Reinterpret these through intentional pixel clusters, hard-edged color blocks, and geometric contours so their correspondence with the photograph above is immediately recognizable.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -37,14 +46,6 @@ The Chinese file preserves the user's original prompt verbatim and is the sole r
 ## Quick fit check
 
 Keep the source identity while redirecting composition; retain the material signature while actively leaving space. Choose exact text, generated copy or no text, with single-image or recursive directory processing and the four delivery modes below.
-
-## Transformation logic
-
-Read the subject and relationships → extract the original brief’s visual language → remove irrelevant detail → recompose scale, placement and whitespace → add minimal source-grounded copy → check geometry, text and finish
-
-## Recognisable finished traits
-
-The overall sophisticated visual effect combines selective distillation, geometric pixels, bold reconstruction, extraordinarily generous artistic negative space, and editorial typography. Avoid object-by-object copying, excessive background retention, a filled frame, ordinary mosaic effects, smooth anti-aliasing, complex realistic detail, and formulaic pixel posters.
 
 ## Four output modes
 
