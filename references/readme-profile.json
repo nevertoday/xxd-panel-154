@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 154｜Retro Pixel Whitespace: rebuilds the most recognisable subject of a photo as true low-resolution 16-bit-style pixel art — hard-edged square pixels with no anti-aliasing, clear stepped outlines, a few large pixel clusters, light dithering and a limited palette of 2–4 brightened colours from the photo — set as a small stamp-like figure in a huge field of whitespace, with a few words in a small bitmap font. Not a mosaic filter or game screenshot. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-154 or asks for retro pixel art, 16-bit sprite or minimalist pixel poster from a photo.",
+  "short_description": "复古像素留白志：把照片主体变成一枚硬边限色的复古像素小图，放进大片留白",
+  "zh-CN": {
+    "name": "复古像素留白志",
+    "tagline": "把照片主角做成一枚 16-bit 风格的复古像素小图，留出大片空白。",
+    "look": "照片里最好认的主体被重新拼成真正的像素画：方方正正的硬边像素，不做抗锯齿，轮廓是清楚的台阶状，由少量大像素块组成，明暗只靠几级色阶和一点点抖动网点。颜色从照片里挑 2–4 种，提亮去灰，干净鲜明。主体很小，像一枚印章，四周是大片留白。偶尔有几个小小的点阵字。",
+    "traits": [
+      "复古像素",
+      "硬边阶梯轮廓",
+      "限色像素簇",
+      "小主体",
+      "大面积留白"
+    ],
+    "good": [
+      "轮廓简单、剪影清楚的主体：一只猫、一个人、一棵树、一辆车",
+      "形状规整的物件或建筑：一座小屋、一个灯塔、一杯奶茶",
+      "想做成游戏感头像、贴纸或极简海报的照片"
+    ],
+    "poor": [
+      "靠细节和质感取胜的图：细腻人像、精密机械、复杂纹理面料",
+      "人群、街景等元素繁多的场面，会被删到只剩一个小像素图",
+      "想要平滑插画、普通马赛克效果或热闹游戏截图的需求"
+    ]
+  },
+  "en": {
+    "name": "Retro Pixel Whitespace",
+    "tagline": "Turns the star of your photo into a small 16-bit-style pixel sprite surrounded by open space.",
+    "look": "The most recognisable subject is rebuilt as real pixel art: hard-edged square pixels with no anti-aliasing, clean stepped outlines and a few large pixel clusters, with light and shade shown only through a handful of tones and a touch of dithering. Two to four colours are picked from the photo, brightened and cleaned up. The subject stays small, like a stamp, in a wide field of empty space. Now and then a few words appear in a tiny bitmap font.",
+    "traits": [
+      "Retro pixel art",
+      "Stepped hard edges",
+      "Limited palette",
+      "Small subject",
+      "Open whitespace"
+    ],
+    "good": [
+      "Subjects with a simple, clear silhouette: a cat, a person, a tree, a car",
+      "Neatly shaped objects or buildings: a cabin, a lighthouse, a cup of bubble tea",
+      "Photos you want as a game-style avatar, sticker or minimal poster"
+    ],
+    "poor": [
+      "Images that rely on fine detail or texture: delicate portraits, precision machinery, richly patterned fabric",
+      "Crowds and busy street scenes, which are cut down to one small sprite",
+      "Requests for smooth illustration, a plain mosaic filter or a busy game screenshot"
+    ]
+  },
+  "ja": {
+    "name": "レトロピクセルと余白",
+    "tagline": "写真の主役を 16-bit 風のレトロなピクセル画にして、広い余白に置きます。",
+    "look": "写真でいちばん目立つ主役を本物のピクセルアートに組み直します。四角く硬い縁のピクセルでアンチエイリアスはかけず、輪郭ははっきりした階段状、少ない大きなピクセルの塊で形づくり、明暗は数段階の色と少しのディザだけで表します。色は写真から二〜四色を選び、明るくくすみを抜いて鮮やかにします。主役は小さなスタンプのようで、まわりには広い余白が残ります。小さなドットフォントの文字が少し入ることもあります。",
+    "traits": [
+      "レトロピクセル",
+      "階段状の硬い輪郭",
+      "限られた色数",
+      "小さな主役",
+      "広い余白"
+    ],
+    "good": [
+      "シルエットが単純ではっきりした主役：猫、人物、一本の木、車",
+      "形の整った物や建物：小屋、灯台、タピオカミルクティー",
+      "ゲーム風のアイコン、ステッカー、ミニマルなポスターにしたい写真"
+    ],
+    "poor": [
+      "細部や質感が見どころの画像：繊細な肖像、精密な機械、柄の細かい布",
+      "人混みや街並みなど要素の多い場面（小さなピクセル画ひとつに削られます）",
+      "なめらかなイラスト、ただのモザイク、にぎやかなゲーム画面を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "레트로 픽셀 여백",
+    "tagline": "사진 속 주인공을 16비트 풍 레트로 픽셀 그림으로 만들어 넓은 여백에 둡니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 진짜 픽셀 아트로 다시 쌓습니다. 네모반듯하고 가장자리가 딱딱한 픽셀에 안티앨리어싱은 없고, 윤곽은 또렷한 계단 모양이며, 큰 픽셀 덩어리 몇 개로 형태를 만들고 명암은 몇 단계의 색과 약간의 디더링으로만 표현합니다. 색은 사진에서 두세 가지, 많게는 네 가지를 골라 밝고 맑게 다듬습니다. 주인공은 도장처럼 작고, 주변은 넓은 여백입니다. 작은 도트 글꼴의 글자가 조금 들어가기도 합니다.",
+    "traits": [
+      "레트로 픽셀",
+      "계단형 딱딱한 윤곽",
+      "제한된 색",
+      "작은 주인공",
+      "넓은 여백"
+    ],
+    "good": [
+      "실루엣이 단순하고 분명한 주인공: 고양이, 사람, 나무 한 그루, 자동차",
+      "모양이 반듯한 물건이나 건물: 오두막, 등대, 버블티 한 잔",
+      "게임 느낌의 프로필 사진, 스티커, 미니멀 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부와 질감이 핵심인 이미지: 섬세한 인물 사진, 정밀 기계, 무늬가 복잡한 천",
+      "군중이나 거리 풍경처럼 요소가 많은 장면(작은 픽셀 그림 하나만 남습니다)",
+      "매끈한 일러스트, 단순 모자이크, 복잡한 게임 화면을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "بكسل رجعي وفراغ",
+    "tagline": "يحوّل بطل صورتك إلى رسم بكسل رجعي صغير بأسلوب 16-بت تحيط به مساحة فارغة.",
+    "look": "يُعاد بناء أوضح عنصر في الصورة كفن بكسل حقيقي: بكسلات مربعة حادة الحواف بلا تنعيم، وحدود متدرجة كالسلالم، وكتل بكسل كبيرة قليلة، ولا يظهر الضوء والظل إلا بدرجات لونية معدودة ولمسة من التنقيط. تُختار من الصورة لونان إلى أربعة ألوان وتُفتَّح وتُصفّى. يبقى العنصر صغيراً كالختم وسط مساحة فارغة واسعة. وقد تظهر أحياناً كلمات قليلة بخط نقطي صغير.",
+    "traits": [
+      "فن بكسل رجعي",
+      "حواف حادة متدرجة",
+      "ألوان محدودة",
+      "عنصر صغير",
+      "فراغ واسع"
+    ],
+    "good": [
+      "عناصر ذات ظل بسيط وواضح: قطة، شخص، شجرة، سيارة",
+      "أشياء أو مبانٍ منتظمة الشكل: كوخ، منارة، كوب شاي بالحليب",
+      "صور تريدها صورة شخصية بطابع الألعاب أو ملصقاً أو بوستر بسيطاً"
+    ],
+    "poor": [
+      "صور تعتمد على التفاصيل الدقيقة أو الملمس: صور شخصية رقيقة، آلات دقيقة، أقمشة كثيرة النقوش",
+      "الحشود ومشاهد الشوارع المزدحمة، إذ تُختزل إلى رسم بكسل صغير واحد",
+      "طلب رسم ناعم أو فلتر فسيفساء عادي أو لقطة لعبة مزدحمة"
+    ]
+  }
+}
